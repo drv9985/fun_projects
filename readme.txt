@@ -1,0 +1,1 @@
+Collection of small projects used for learning different parts of python.
